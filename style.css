@@ -1,0 +1,31 @@
+#snap_b{
+    background-color:rgb(0, 255, 229);
+    border-radius: 50px;
+    background-size: 50px;
+    height:200px;
+    width: 400px;   
+}
+
+#c_img{
+    height: 200px;
+    width: 200px;
+}
+
+#camera{
+    width: 80px;
+    height: 80px;
+    margin: 0px;
+}
+
+#captured_image{
+    width: 500px;
+    height: 400px;
+}
+
+body{
+    background-color:lightblue;
+}
+
+#title{
+    font-size: 100px;
+}
